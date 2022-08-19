@@ -1,0 +1,17 @@
+package com.aurionpro.test;
+
+import com.aurionpro.model.InterpreterClient;
+import com.aurionpro.model.InterpreterEngine;
+
+public class Test {
+	public static void main(String[] args) {
+		InterpreterEngine interpreterEngine = new InterpreterEngine();
+
+		InterpreterClient interpreterClient = new InterpreterClient(interpreterEngine);
+
+		System.out.println("Addition of both Number is = " + interpreterClient.interpret("add 300 and 75"));
+		System.out.println("---------------------------------------------------------------------------------");
+		System.out.println("Subtraction of number is = " + interpreterClient.interpret("subtract 40 from 100"));
+
+	}
+}

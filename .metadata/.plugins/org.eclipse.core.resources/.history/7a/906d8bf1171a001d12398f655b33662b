@@ -1,0 +1,11 @@
+package com.aurionpro.model;
+
+public class Winter implements ISeason {
+
+	@Override
+	public void nextSeason(SeasonContext seasonContext) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,10 @@
+package com.aurionpro.model;
+
+public class Winter implements ISeason {
+
+	public void nextSeason(SeasonContext seasonContext) {
+		System.out.println("Winter Season is running...");
+		((SeasonContext) seasonContext).setSeason(new Summer());
+	}
+
+}

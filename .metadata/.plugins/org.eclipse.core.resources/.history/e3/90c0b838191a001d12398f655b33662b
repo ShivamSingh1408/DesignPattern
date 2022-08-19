@@ -1,0 +1,19 @@
+package com.aurionpro.test;
+
+import com.aurionpro.model.Monsoon;
+import com.aurionpro.model.SeasonContext;
+
+public class Test {
+
+	public static void main(String[] args) {
+		SeasonContext seasonContext = new SeasonContext();
+		seasonContext.nextSeason();
+		seasonContext.nextSeason();
+		seasonContext.nextSeason();
+		System.out.println("----------------");
+		seasonContext.setSeason(new Monsoon());
+		seasonContext.nextSeason();
+		seasonContext.nextSeason();
+	}
+
+}

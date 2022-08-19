@@ -1,0 +1,11 @@
+package com.aurionpro.model;
+
+public class AcStartState implements IState {
+
+	@Override
+	public void doAction() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,11 @@
+package com.aurionpro.model;
+
+public class SubtractionExpression implements IExpression {
+
+	@Override
+	public int interpret(InterpreterEngine interpreterEngine) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

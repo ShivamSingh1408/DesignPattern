@@ -1,0 +1,27 @@
+package com.aurionpro.test;
+
+import com.aurionpro.model.Customer;
+import com.aurionpro.model.LineItem;
+import com.aurionpro.model.Order;
+import com.aurionpro.model.Product;
+
+public class lineItemTest {
+	public static void main(String[] args) {
+		Product p1 = new Product(101, "Iqoo z3", 15000, 2000);
+		System.out.println(p1);
+		System.out.println("Price after discount: " + p1.calculatePriceAfterDiscount());
+		
+		LineItem l1 = new LineItem(101, 3, p1);
+		System.out.println(l1);
+		System.out.println("Line Item Cost is " + l1.calculateLinItemCost());
+		
+		Product p2 = new Product(102, "Good Day", 100, 10);
+		System.out.println(p2);
+		System.out.println("Price after discount: " + p2.calculatePriceAfterDiscount());
+		
+		
+		LineItem l2 = new LineItem(102, 5, p2);
+		System.out.println(l2);
+
+	}
+}

@@ -1,0 +1,13 @@
+package com.aurionpro.model;
+
+public class StrategyRole implements IRole {
+
+	public String description() {
+		return null;
+	}
+
+	public String responsibility() {
+		return null;
+	}
+
+}

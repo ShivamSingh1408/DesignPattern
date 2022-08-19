@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+<typeInfo handle="=06-factory-app/src&lt;com.aurionpro.model{IAutomobile.java[IAutomobile" modifiers="513" timestamp="1659697221758"/>
+<typeInfo handle="=07-factory-solution-app/src&lt;com.aurionpro.model{IAutomobileFactory.java[IAutomobileFactory" modifiers="513" timestamp="1659699500065"/>
+<typeInfo handle="=08-dao-factory-app/src&lt;com.aurionpro.model{IDaoAbstractFactory.java[IDaoAbstractFactory" modifiers="513" timestamp="1659702143096"/>
+<typeInfo handle="=08-dao-factory-app/C:\/Program Files\/Java\/jdk1.8.0_191\/jre\/lib\/rt.jar=/javadoc_location=/https:\/\/docs.oracle.com\/javase\/8\/docs\/api\/=/&lt;org.omg.PortableServer(ID_ASSIGNMENT_POLICY_ID.class[ID_ASSIGNMENT_POLICY_ID" modifiers="1537" timestamp="1654256308920"/>
+<typeInfo handle="=12-adapter-pattern-app/C:\/Program Files\/Java\/jdk1.8.0_191\/jre\/lib\/rt.jar=/javadoc_location=/https:\/\/docs.oracle.com\/javase\/8\/docs\/api\/=/&lt;javax.imageio.event(IIOWriteProgressListener.class[IIOWriteProgressListener" modifiers="1537" timestamp="1654256308920"/>
+<typeInfo handle="=12-adapter-pattern-app/src&lt;com.aurionpro.model{IItem.java[IItem" modifiers="513" timestamp="1659961271666"/>
+<typeInfo handle="=15-facad-pattren-app/C:\/Program Files\/Java\/jdk1.8.0_191\/jre\/lib\/rt.jar=/javadoc_location=/https:\/\/docs.oracle.com\/javase\/8\/docs\/api\/=/&lt;java.awt.image(ImageProducer.class[ImageProducer" modifiers="1537" timestamp="1654256308920"/>
+<typeInfo handle="=15-facad-pattren-app/src&lt;com.aurionpro.model{IMenu.java[IMenu" modifiers="513" timestamp="1660132631658"/>
+<typeInfo handle="=15-facad-pattren-app/src&lt;com.aurionpro.model{IHotel.java[IHotel" modifiers="513" timestamp="1660133629768"/>
+<typeInfo handle="=16-decorator-pattern-app/src&lt;com.aurionpro.model{ICarService.java[ICarService" modifiers="513" timestamp="1660136912905"/>
+<typeInfo handle="=17-Strategy-pattern-app/C:\/Program Files\/Java\/jdk1.8.0_191\/jre\/lib\/rt.jar=/javadoc_location=/https:\/\/docs.oracle.com\/javase\/8\/docs\/api\/=/&lt;javax.imageio.stream(ImageOutputStream.class[ImageOutputStream" modifiers="1537" timestamp="1654256308920"/>
+<typeInfo handle="=17-Strategy-pattern-app/src&lt;com.aurionpro.model{IOperation.java[IOperation" modifiers="513" timestamp="1660137980841"/>
+<typeInfo handle="=18-hat-decorator-app/src&lt;com.aurionpro.model{IHat.java[IHat" modifiers="513" timestamp="1660157853267"/>
+<typeInfo handle="=20-state-pattern-acstate-app/C:\/Program Files\/Java\/jdk1.8.0_191\/jre\/lib\/rt.jar=/javadoc_location=/https:\/\/docs.oracle.com\/javase\/8\/docs\/api\/=/&lt;java.util.stream(IntStream.class[IntStream" modifiers="1537" timestamp="1654256308920"/>
+<typeInfo handle="=20-state-pattern-acstate-app/src&lt;com.aurionpro.model{IState.java[IState" modifiers="513" timestamp="1660285891961"/>
+<typeInfo handle="=22-employee-app/C:\/Program Files\/Java\/jdk1.8.0_191\/jre\/lib\/rt.jar=/javadoc_location=/https:\/\/docs.oracle.com\/javase\/8\/docs\/api\/=/&lt;org.omg.CORBA(IRObject.class[IRObject" modifiers="1537" timestamp="1654256308920"/>
+<typeInfo handle="=22-employee-app/src&lt;com.aurionpro.model{IRole.java[IRole" modifiers="513" timestamp="1660294328688"/>
+<typeInfo handle="=23-Interpreter-pattern-app/src&lt;com.aurionpro.model{IExpression.java[IExpression" modifiers="513" timestamp="1660295705679"/>
+</typeInfoHistroy>

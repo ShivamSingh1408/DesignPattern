@@ -1,0 +1,12 @@
+package com.aurionpro.test;
+
+import com.aurionpro.model.LineItem;
+import com.aurionpro.model.Product;
+
+public class lineItemTest {
+	public static void main(String[] args) {
+		Product p1 = new Product(101,"Samsung galaxy",15000,2000);
+		LineItem l1 = new LineItem(101,3, p1);
+		System.out.println(l1);
+	}
+}

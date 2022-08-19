@@ -1,0 +1,9 @@
+package com.aurionpro.model;
+
+public class Monsoon implements ISeason {
+
+	public void nextSeason(SeasonContext seasonContext) {
+
+	}
+
+}
